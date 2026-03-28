@@ -1,11 +1,11 @@
-# Hi, I'm dpTech-front 👋
+# Welcome to dpTech-front 👋
 
-Welcome to my GitHub! This is where I document hands-on projects, experiments, and personal labs in Linux, system administration, scripting, and embedded systems.
+This is my GitHub portfolio for hands-on projects in Linux, system administration, scripting, and embedded systems.
 
 ---
 
 ## Featured Work
-- **Linux Home Lab:** Server setup, SSH hardening, firewall configuration, automation scripts, Vim/Neovim workflows, tiling window managers (bspwm, dwm, Echinus)  
+- **Linux Home Lab:** Server setup, SSH hardening, firewall configuration, automation scripts, Vim/Neovim workflows, tiling WMs (bspwm, dwm, Echinus)  
 - **Vim/Neovim Configs:** Custom workflows and productivity enhancements  
 - **Embedded & Robotics:** Arduino & EV3 experiments, small robotics projects  
 
@@ -19,4 +19,4 @@ Welcome to my GitHub! This is where I document hands-on projects, experiments, a
 
 ---
 
-> This profile is all about **practical, hands-on projects**. Explore my repos to see my Linux setups, scripts, and experiments in action!
+> Explore my repositories to see my Linux setups, scripts, and experiments in action!
