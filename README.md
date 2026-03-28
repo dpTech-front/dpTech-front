@@ -1,23 +1,13 @@
 # Hi, I'm dpTech-front 👋
 
-I’m a Linux enthusiast and IT generalist with a passion for systems, robotics, and embedded projects. I enjoy exploring Unix-like systems, customizing workflows, and building efficient, reproducible environments.
+I’m a Linux enthusiast and IT generalist with a passion for systems, robotics, and embedded projects.  
 
-## What I Do
+I enjoy exploring Unix-like systems, customizing workflows, and building reproducible environments.
 
-- Configure and optimize Linux environments (tiling WMs, shell setups, Vim/Neovim)
-- Develop scripts and automation for system management
-- Explore robotics and embedded systems (Arduino, EV3)
-- Continuously learn and experiment with new technologies
+## What You’ll Find Here
 
-## About This Repo
+- My Linux home lab journey
+- Shell environments, tiling WMs, Vim setups
+- Server automation and embedded robotics projects
 
-This repository documents my Linux home lab journey.  
-It contains:
-
-- Shell environments (Zsh, Bash, etc.)  
-- Tiling window managers (bspwm, Echinus, dwm)  
-- Vim/Neovim setups  
-- Server automation projects  
-- Embedded robotics experiments  
-
-> Each folder is self-contained and documented, so you can explore individual projects step by step.
+> This is a high-level overview — explore the `linux-homelab` repository for detailed configs and projects.
