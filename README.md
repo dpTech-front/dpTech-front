@@ -2,11 +2,11 @@
 
 I’m a Linux enthusiast and IT generalist passionate about exploring systems, customizing workflows, and building reproducible environments.
 
-## Areas of Focus
+## Areas of Expertise
 
-- Shell environments (Zsh, Bash, Fish)
+- Shell environments
 - Vim / Neovim
-- Tiling window managers (bspwm, Echinus, dwm)
+- Tiling window managers
 - Linux home lab experiments
 - Embedded systems & robotics
 
