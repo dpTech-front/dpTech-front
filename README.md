@@ -1,19 +1,22 @@
-# Hi, I'm Daniel Prodigalidad 👋
+# Hi, I'm dpTech-front 👋
 
-I’ve been exploring Linux since high school, starting from curiosity and system tinkering (some might call it an addiction 😏). Over the years, I’ve experimented with Arch, Void, Debian, Alpine, Gentoo, and older Ubuntu/Mint and BSD systems. I enjoy customizing systems, from tiling window managers like bspwm, dwm, and Echinus to building efficient workflows using Vim, Neovim, and Bash scripting.
-
-Alongside Linux, I have a strong interest in programming, robotics, and embedded systems. I’ve worked with Arduino, EV3, and participated in science fairs, building projects that combine software and hardware.
-
-I recently completed an IT Administrator internship, gaining hands-on experience in troubleshooting, system administration, and user support. I am now focused on transitioning into Linux System Administration, building a personal Linux home lab to strengthen my skills in server setup, security, automation, and networking.
+Welcome to my GitHub! This is where I document hands-on projects, experiments, and personal labs in Linux, system administration, scripting, and embedded systems.
 
 ---
 
-## Skills & Tools
-- **Linux/Unix:** Void, Arch, Debian, Ubuntu, Alpine, Gentoo, BSD  
-- **Editors & Scripting:** Vim, Neovim, Bash, Git  
-- **IT Admin:** System troubleshooting, network setup, Windows support  
-- **Embedded & Robotics:** Arduino, EV3, robotics projects  
+## Featured Work
+- **Linux Home Lab:** Server setup, SSH hardening, firewall configuration, automation scripts, Vim/Neovim workflows, tiling window managers (bspwm, dwm, Echinus)  
+- **Vim/Neovim Configs:** Custom workflows and productivity enhancements  
+- **Embedded & Robotics:** Arduino & EV3 experiments, small robotics projects  
 
 ---
-## Connect
-- [LinkedIn](https://www.linkedin.com/in/daniel-prodigalidad)
+
+## Tools & Skills
+- **OS/Distros:** Void, Arch, Debian, Ubuntu, Alpine, Gentoo, BSD  
+- **Scripting & Automation:** Bash, Vim/Neovim, Git  
+- **IT Admin:** System setup, troubleshooting, network support  
+- **Embedded Systems & Robotics:** Arduino, EV3  
+
+---
+
+> This profile is all about **practical, hands-on projects**. Explore my repos to see my Linux setups, scripts, and experiments in action!
