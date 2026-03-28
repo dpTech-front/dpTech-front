@@ -1,4 +1,4 @@
-# Hi, I'm dpTech-front 👋
+# Hi 👋
 
 I’m a Linux enthusiast and IT generalist passionate about exploring systems, customizing workflows, and building reproducible environments.
 
