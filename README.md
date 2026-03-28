@@ -1,23 +1,29 @@
-# Hi, I'm Daniel Prodigalidad 👋
+# Linux Home Lab
 
-IT Administrator & Aspiring Linux System Administrator | Linux tinkerer, Vim/Neovim user | Embedded Systems & Robotics Enthusiast
+Welcome to my personal Linux home lab repository. I’ve been exploring Linux since high school, starting from curiosity and system tinkering (some might call it an addiction 😏). Over the years, I’ve experimented with Arch Linux, Debian-based systems, Alpine Linux, Void Linux (primary), Gentoo, and older Ubuntu/Mint and BSD systems. I enjoy customizing systems, from tiling window managers like bspwm, dwm, and Echinus to automation with Bash and Vim/Neovim.
 
-## About Me
-I’ve been exploring Linux since high school, experimenting with Arch, Debian, Void (primary), Alpine, Gentoo, Ubuntu/Mint, and BSD. I enjoy customizing systems, from tiling window managers like bspwm, dwm, and Echinus to automating workflows with Bash and Vim/Neovim.  
+This repository documents my hands-on practice in system administration, server setup, security hardening, workflow automation, and Linux environment customization. It serves as both a personal reference and a showcase of my practical skills.
 
-Alongside Linux, I explore programming, robotics, and embedded systems, with experience in Arduino, EV3, and science fair projects. Recently, I completed an IT Administrator internship, gaining practical experience in system administration, troubleshooting, and user support.  
+Alongside Linux, I have a strong interest in programming, robotics, and embedded systems. I have experience with Arduino, EV3 robotics training, and science fair projects, building solutions that integrate software and hardware.
 
-## Current Focus
-- Building a personal Linux home lab: server setup, SSH hardening, firewall configuration, and automation  
-- Vim/Neovim custom workflows  
-- Tiling window manager configurations  
-- System optimization and scripting  
+I recently completed an IT Administrator internship, gaining hands-on experience in troubleshooting, user support, and managing IT systems. I’m now focused on transitioning into a Linux System Administration role and continuously improving my skills through personal projects and lab experimentation.
 
-## Skills
-- Linux: Arch, Void, Debian, Ubuntu, Alpine, Gentoo, BSD  
-- Tools: Vim, Neovim, Bash, Git  
-- IT Admin: System troubleshooting, user support, Windows & network administration  
-- Embedded & Robotics: Arduino, EV3  
+## Current Projects
+- Linux server setup and configuration
+- SSH hardening and firewall setup
+- User management and permissions
+- Bash scripting for automation
+- Vim/Neovim custom workflow configurations
+- Tiling window manager setups (bspwm, dwm, Echinus)
+- Embedded system experiments (Arduino/EV3)
+
+## Tools & Environment
+- Operating Systems: Void, Arch, Debian, Ubuntu, Alpine, Gentoo, BSD
+- Tools: Vim, Neovim, Bash, Git
+- IT Skills: System administration, troubleshooting, network setup, Windows support
+- Embedded & Robotics: Arduino, EV3
+
+This repository is a work in progress, continuously updated with new projects, experiments, and configurations. Feel free to explore, connect, or reach out for collaboration!
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/daniel-prodigalidad)
