@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Daniel Prodigalidad 👋
 
-<!--
-**dpTech-front/dpTech-front** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Administrator & Aspiring Linux System Administrator | Linux tinkerer, Vim/Neovim user | Embedded Systems & Robotics Enthusiast
 
-Here are some ideas to get you started:
+## About Me
+I’ve been exploring Linux since high school, experimenting with Arch, Debian, Void (primary), Alpine, Gentoo, Ubuntu/Mint, and BSD. I enjoy customizing systems, from tiling window managers like bspwm, dwm, and Echinus to automating workflows with Bash and Vim/Neovim.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alongside Linux, I explore programming, robotics, and embedded systems, with experience in Arduino, EV3, and science fair projects. Recently, I completed an IT Administrator internship, gaining practical experience in system administration, troubleshooting, and user support.  
+
+## Current Focus
+- Building a personal Linux home lab: server setup, SSH hardening, firewall configuration, and automation  
+- Vim/Neovim custom workflows  
+- Tiling window manager configurations  
+- System optimization and scripting  
+
+## Skills
+- Linux: Arch, Void, Debian, Ubuntu, Alpine, Gentoo, BSD  
+- Tools: Vim, Neovim, Bash, Git  
+- IT Admin: System troubleshooting, user support, Windows & network administration  
+- Embedded & Robotics: Arduino, EV3  
+
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
