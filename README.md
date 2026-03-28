@@ -20,4 +20,4 @@ Alongside Linux, I explore programming, robotics, and embedded systems, with exp
 - Embedded & Robotics: Arduino, EV3  
 
 ## Connect
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [LinkedIn](https://www.linkedin.com/in/daniel-prodigalidad)
