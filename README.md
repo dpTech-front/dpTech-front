@@ -1,13 +1,5 @@
-# Hi 👋
+Linux-focused Systems Administrator  
+Interested in low-level systems, X11 window management, and lightweight Linux environments.
 
-I’m a Linux enthusiast and IT generalist passionate about exploring systems, customizing workflows, and building reproducible environments.
-
-## Areas of Expertise
-
-- Shell environments
-- Vim / Neovim
-- Tiling window managers
-- Linux home lab experiments
-- Embedded systems & robotics
-
-> Explore the `linux-homelab` repository for detailed configs, scripts, and projects.
+### Featured
+- Dechinus WM – Hybrid X11 window manager (~1.9K LOC, C/Xlib)
